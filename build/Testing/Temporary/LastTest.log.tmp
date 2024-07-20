@@ -1,0 +1,1052 @@
+Start testing: Jul 06 14:59 IDT
+----------------------------------------------------------
+1/53 Testing: CleaningRecordTest.Construction
+1/53 Test: CleaningRecordTest.Construction
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest" "--gtest_filter=CleaningRecordTest.Construction" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"CleaningRecordTest.Construction" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CleaningRecordTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CleaningRecordTest
+[ RUN      ] CleaningRecordTest.Construction
+[       OK ] CleaningRecordTest.Construction (0 ms)
+[----------] 1 test from CleaningRecordTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CleaningRecordTest.Construction" end time: Jul 06 14:59 IDT
+"CleaningRecordTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/53 Testing: CleaningRecordTest.Add
+2/53 Test: CleaningRecordTest.Add
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest" "--gtest_filter=CleaningRecordTest.Add" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"CleaningRecordTest.Add" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CleaningRecordTest.Add
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CleaningRecordTest
+[ RUN      ] CleaningRecordTest.Add
+[       OK ] CleaningRecordTest.Add (0 ms)
+[----------] 1 test from CleaningRecordTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CleaningRecordTest.Add" end time: Jul 06 14:59 IDT
+"CleaningRecordTest.Add" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/53 Testing: CleaningRecordTest.InitialValue
+3/53 Test: CleaningRecordTest.InitialValue
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest" "--gtest_filter=CleaningRecordTest.InitialValue" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"CleaningRecordTest.InitialValue" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CleaningRecordTest.InitialValue
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CleaningRecordTest
+[ RUN      ] CleaningRecordTest.InitialValue
+[       OK ] CleaningRecordTest.InitialValue (0 ms)
+[----------] 1 test from CleaningRecordTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"CleaningRecordTest.InitialValue" end time: Jul 06 14:59 IDT
+"CleaningRecordTest.InitialValue" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/53 Testing: VaccumTest.ActivateCorrectly
+4/53 Test: VaccumTest.ActivateCorrectly
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.ActivateCorrectly" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.ActivateCorrectly" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.ActivateCorrectly
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.ActivateCorrectly
+[       OK ] VaccumTest.ActivateCorrectly (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.ActivateCorrectly" end time: Jul 06 14:59 IDT
+"VaccumTest.ActivateCorrectly" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/53 Testing: VaccumTest.ActivateOvercharge
+5/53 Test: VaccumTest.ActivateOvercharge
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.ActivateOvercharge" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.ActivateOvercharge" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.ActivateOvercharge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.ActivateOvercharge
+[       OK ] VaccumTest.ActivateOvercharge (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.ActivateOvercharge" end time: Jul 06 14:59 IDT
+"VaccumTest.ActivateOvercharge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+6/53 Testing: VaccumTest.Charge
+6/53 Test: VaccumTest.Charge
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.Charge" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.Charge" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.Charge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.Charge
+[       OK ] VaccumTest.Charge (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.Charge" end time: Jul 06 14:59 IDT
+"VaccumTest.Charge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/53 Testing: VaccumTest.TrikleCharge1
+7/53 Test: VaccumTest.TrikleCharge1
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.TrikleCharge1" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.TrikleCharge1" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.TrikleCharge1
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.TrikleCharge1
+[       OK ] VaccumTest.TrikleCharge1 (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.TrikleCharge1" end time: Jul 06 14:59 IDT
+"VaccumTest.TrikleCharge1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/53 Testing: VaccumTest.TrikleCharge2
+8/53 Test: VaccumTest.TrikleCharge2
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.TrikleCharge2" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.TrikleCharge2" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.TrikleCharge2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.TrikleCharge2
+[       OK ] VaccumTest.TrikleCharge2 (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.TrikleCharge2" end time: Jul 06 14:59 IDT
+"VaccumTest.TrikleCharge2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/53 Testing: VaccumTest.OverCharge
+9/53 Test: VaccumTest.OverCharge
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.OverCharge" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.OverCharge" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.OverCharge
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.OverCharge
+[       OK ] VaccumTest.OverCharge (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.OverCharge" end time: Jul 06 14:59 IDT
+"VaccumTest.OverCharge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/53 Testing: VaccumTest.TrickleChargeDoubleInnacuracy
+10/53 Test: VaccumTest.TrickleChargeDoubleInnacuracy
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.TrickleChargeDoubleInnacuracy" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.TrickleChargeDoubleInnacuracy" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.TrickleChargeDoubleInnacuracy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.TrickleChargeDoubleInnacuracy
+[       OK ] VaccumTest.TrickleChargeDoubleInnacuracy (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.TrickleChargeDoubleInnacuracy" end time: Jul 06 14:59 IDT
+"VaccumTest.TrickleChargeDoubleInnacuracy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/53 Testing: VaccumTest.OverChargeActivate
+11/53 Test: VaccumTest.OverChargeActivate
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.OverChargeActivate" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.OverChargeActivate" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.OverChargeActivate
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.OverChargeActivate
+[       OK ] VaccumTest.OverChargeActivate (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.OverChargeActivate" end time: Jul 06 14:59 IDT
+"VaccumTest.OverChargeActivate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/53 Testing: VaccumTest.Mixed
+12/53 Test: VaccumTest.Mixed
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumBatteryTest" "--gtest_filter=VaccumTest.Mixed" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.Mixed" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.Mixed
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.Mixed
+[       OK ] VaccumTest.Mixed (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.Mixed" end time: Jul 06 14:59 IDT
+"VaccumTest.Mixed" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/53 Testing: DirectionTest.Numbering
+13/53 Test: DirectionTest.Numbering
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/DirectionTest" "--gtest_filter=DirectionTest.Numbering" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"DirectionTest.Numbering" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DirectionTest.Numbering
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DirectionTest
+[ RUN      ] DirectionTest.Numbering
+[       OK ] DirectionTest.Numbering (0 ms)
+[----------] 1 test from DirectionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DirectionTest.Numbering" end time: Jul 06 14:59 IDT
+"DirectionTest.Numbering" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/53 Testing: DirectionTest.Opposite
+14/53 Test: DirectionTest.Opposite
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/DirectionTest" "--gtest_filter=DirectionTest.Opposite" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"DirectionTest.Opposite" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = DirectionTest.Opposite
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from DirectionTest
+[ RUN      ] DirectionTest.Opposite
+[       OK ] DirectionTest.Opposite (0 ms)
+[----------] 1 test from DirectionTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"DirectionTest.Opposite" end time: Jul 06 14:59 IDT
+"DirectionTest.Opposite" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/53 Testing: HouseLocationTest.Construction
+15/53 Test: HouseLocationTest.Construction
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseLocationTest" "--gtest_filter=HouseLocationTest.Construction" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseLocationTest.Construction" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseLocationTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseLocationTest
+[ RUN      ] HouseLocationTest.Construction
+[       OK ] HouseLocationTest.Construction (0 ms)
+[----------] 1 test from HouseLocationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"HouseLocationTest.Construction" end time: Jul 06 14:59 IDT
+"HouseLocationTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/53 Testing: HouseLocationTest.SetDirtLevel
+16/53 Test: HouseLocationTest.SetDirtLevel
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseLocationTest" "--gtest_filter=HouseLocationTest.SetDirtLevel" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseLocationTest.SetDirtLevel" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseLocationTest.SetDirtLevel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseLocationTest
+[ RUN      ] HouseLocationTest.SetDirtLevel
+[       OK ] HouseLocationTest.SetDirtLevel (0 ms)
+[----------] 1 test from HouseLocationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseLocationTest.SetDirtLevel" end time: Jul 06 14:59 IDT
+"HouseLocationTest.SetDirtLevel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/53 Testing: HouseLocationTest.GetDirtLevel
+17/53 Test: HouseLocationTest.GetDirtLevel
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseLocationTest" "--gtest_filter=HouseLocationTest.GetDirtLevel" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseLocationTest.GetDirtLevel" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseLocationTest.GetDirtLevel
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseLocationTest
+[ RUN      ] HouseLocationTest.GetDirtLevel
+[       OK ] HouseLocationTest.GetDirtLevel (0 ms)
+[----------] 1 test from HouseLocationTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseLocationTest.GetDirtLevel" end time: Jul 06 14:59 IDT
+"HouseLocationTest.GetDirtLevel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/53 Testing: HouseTest.Construction
+18/53 Test: HouseTest.Construction
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseTest" "--gtest_filter=HouseTest.Construction" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseTest.Construction" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseTest
+[ RUN      ] HouseTest.Construction
+[       OK ] HouseTest.Construction (0 ms)
+[----------] 1 test from HouseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.04 sec
+----------------------------------------------------------
+Test Passed.
+"HouseTest.Construction" end time: Jul 06 14:59 IDT
+"HouseTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+19/53 Testing: HouseTest.getChargingStation
+19/53 Test: HouseTest.getChargingStation
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseTest" "--gtest_filter=HouseTest.getChargingStation" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseTest.getChargingStation" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseTest.getChargingStation
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseTest
+[ RUN      ] HouseTest.getChargingStation
+[       OK ] HouseTest.getChargingStation (0 ms)
+[----------] 1 test from HouseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseTest.getChargingStation" end time: Jul 06 14:59 IDT
+"HouseTest.getChargingStation" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/53 Testing: HouseTest.getAtPosition
+20/53 Test: HouseTest.getAtPosition
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseTest" "--gtest_filter=HouseTest.getAtPosition" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseTest.getAtPosition" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseTest.getAtPosition
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseTest
+[ RUN      ] HouseTest.getAtPosition
+[       OK ] HouseTest.getAtPosition (0 ms)
+[----------] 1 test from HouseTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"HouseTest.getAtPosition" end time: Jul 06 14:59 IDT
+"HouseTest.getAtPosition" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/53 Testing: HouseCleanerTest.saveResultsNoResults
+21/53 Test: HouseCleanerTest.saveResultsNoResults
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseCleanerTest" "--gtest_filter=HouseCleanerTest.saveResultsNoResults" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseCleanerTest.saveResultsNoResults" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseCleanerTest.saveResultsNoResults
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseCleanerTest
+[ RUN      ] HouseCleanerTest.saveResultsNoResults
+No results to save.
+[       OK ] HouseCleanerTest.saveResultsNoResults (0 ms)
+[----------] 1 test from HouseCleanerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseCleanerTest.saveResultsNoResults" end time: Jul 06 14:59 IDT
+"HouseCleanerTest.saveResultsNoResults" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/53 Testing: HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory
+22/53 Test: HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseCleanerTest" "--gtest_filter=HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseCleanerTest
+[ RUN      ] HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory
+[       OK ] HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory (4 ms)
+[----------] 1 test from HouseCleanerTest (4 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (4 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory" end time: Jul 06 14:59 IDT
+"HouseCleanerTest.saveResultsWierdButTechnicallyValidDirectory" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/53 Testing: HouseCleanerTest.saveResultsHappy
+23/53 Test: HouseCleanerTest.saveResultsHappy
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseCleanerTest" "--gtest_filter=HouseCleanerTest.saveResultsHappy" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseCleanerTest.saveResultsHappy" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseCleanerTest.saveResultsHappy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseCleanerTest
+[ RUN      ] HouseCleanerTest.saveResultsHappy
+[       OK ] HouseCleanerTest.saveResultsHappy (3 ms)
+[----------] 1 test from HouseCleanerTest (3 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseCleanerTest.saveResultsHappy" end time: Jul 06 14:59 IDT
+"HouseCleanerTest.saveResultsHappy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/53 Testing: HouseCleanerTest.saveResultsHappy2
+24/53 Test: HouseCleanerTest.saveResultsHappy2
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseCleanerTest" "--gtest_filter=HouseCleanerTest.saveResultsHappy2" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseCleanerTest.saveResultsHappy2" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseCleanerTest.saveResultsHappy2
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseCleanerTest
+[ RUN      ] HouseCleanerTest.saveResultsHappy2
+[       OK ] HouseCleanerTest.saveResultsHappy2 (1 ms)
+[----------] 1 test from HouseCleanerTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseCleanerTest.saveResultsHappy2" end time: Jul 06 14:59 IDT
+"HouseCleanerTest.saveResultsHappy2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/53 Testing: HouseCleanerTest.badRun
+25/53 Test: HouseCleanerTest.badRun
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseCleanerTest" "--gtest_filter=HouseCleanerTest.badRun" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseCleanerTest.badRun" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseCleanerTest.badRun
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseCleanerTest
+[ RUN      ] HouseCleanerTest.badRun
+Failed to read file: "../test/examples/doesnotexist.txt"
+Failed to parse the house cleaning handler from file: "../test/examples/doesnotexist.txt"
+No results to save.
+[       OK ] HouseCleanerTest.badRun (2 ms)
+[----------] 1 test from HouseCleanerTest (2 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseCleanerTest.badRun" end time: Jul 06 14:59 IDT
+"HouseCleanerTest.badRun" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/53 Testing: HouseCleanerTest.instantlyCleanHouse
+26/53 Test: HouseCleanerTest.instantlyCleanHouse
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseCleanerTest" "--gtest_filter=HouseCleanerTest.instantlyCleanHouse" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"HouseCleanerTest.instantlyCleanHouse" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = HouseCleanerTest.instantlyCleanHouse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from HouseCleanerTest
+[ RUN      ] HouseCleanerTest.instantlyCleanHouse
+[       OK ] HouseCleanerTest.instantlyCleanHouse (0 ms)
+[----------] 1 test from HouseCleanerTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"HouseCleanerTest.instantlyCleanHouse" end time: Jul 06 14:59 IDT
+"HouseCleanerTest.instantlyCleanHouse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/53 Testing: VacuumParserTest.ParseInvalidHouses
+27/53 Test: VacuumParserTest.ParseInvalidHouses
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.ParseInvalidHouses" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.ParseInvalidHouses" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.ParseInvalidHouses
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.ParseInvalidHouses
+"../test/examples/failtests/house-invalidchars2.txt"
+Failed Parsing for -21231 Reason: Negative Value
+Error: Failed to parse VacuumParser from file: ../test/examples/failtests/house-invalidchars2.txt. Invalid values.
+"../test/examples/failtests/house-invalidchars3.txt"
+Failed Parsing for -10 Reason: Negative Value
+Failed Parsing for -21231 Reason: Negative Value
+Error: Failed to parse VacuumParser from file: ../test/examples/failtests/house-invalidchars3.txt. Invalid values.
+"../test/examples/failtests/house-invalidchars4.txt"
+Failed Parsing for -10 Reason: Negative Value
+Error: Failed to parse VacuumParser from file: ../test/examples/failtests/house-invalidchars4.txt. Invalid values.
+"../test/examples/failtests/house-malformedendnobattery.txt"
+Failed to parse VacuumParser from file: ../test/examples/failtests/house-malformedendnobattery.txt. Not enough lines.
+"../test/examples/failtests/house-noCharging.txt"
+Error: Failed to create House or Vacuum. Reason: No charging station found in house
+"../test/examples/failtests/house-invalidchars.txt"
+Failed Parsing for a21231 Reason: stoi: no conversion
+Error: Failed to parse VacuumParser from file: ../test/examples/failtests/house-invalidchars.txt. Invalid values.
+"../test/examples/failtests/house-empty.txt"
+Failed to parse VacuumParser from file: ../test/examples/failtests/house-empty.txt. Not enough lines.
+[       OK ] VacuumParserTest.ParseInvalidHouses (5 ms)
+[----------] 1 test from VacuumParserTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.02 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.ParseInvalidHouses" end time: Jul 06 14:59 IDT
+"VacuumParserTest.ParseInvalidHouses" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/53 Testing: VacuumParserTest.ParseInvalid
+28/53 Test: VacuumParserTest.ParseInvalid
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.ParseInvalid" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.ParseInvalid" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.ParseInvalid
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.ParseInvalid
+Failed to read file: "does-not-exist.txt"
+[       OK ] VacuumParserTest.ParseInvalid (0 ms)
+[----------] 1 test from VacuumParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.ParseInvalid" end time: Jul 06 14:59 IDT
+"VacuumParserTest.ParseInvalid" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/53 Testing: VacuumParserTest.ParseHappy
+29/53 Test: VacuumParserTest.ParseHappy
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.ParseHappy" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.ParseHappy" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.ParseHappy
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.ParseHappy
+[       OK ] VacuumParserTest.ParseHappy (0 ms)
+[----------] 1 test from VacuumParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.ParseHappy" end time: Jul 06 14:59 IDT
+"VacuumParserTest.ParseHappy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/53 Testing: VacuumParserTest.ParseIncompleteWalls
+30/53 Test: VacuumParserTest.ParseIncompleteWalls
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.ParseIncompleteWalls" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.ParseIncompleteWalls" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.ParseIncompleteWalls
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.ParseIncompleteWalls
+[       OK ] VacuumParserTest.ParseIncompleteWalls (0 ms)
+[----------] 1 test from VacuumParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.ParseIncompleteWalls" end time: Jul 06 14:59 IDT
+"VacuumParserTest.ParseIncompleteWalls" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/53 Testing: VacuumParserTest.ParseNoWalls
+31/53 Test: VacuumParserTest.ParseNoWalls
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.ParseNoWalls" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.ParseNoWalls" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.ParseNoWalls
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.ParseNoWalls
+[       OK ] VacuumParserTest.ParseNoWalls (0 ms)
+[----------] 1 test from VacuumParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.ParseNoWalls" end time: Jul 06 14:59 IDT
+"VacuumParserTest.ParseNoWalls" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/53 Testing: VacuumParserTest.HouseValidButLimited
+32/53 Test: VacuumParserTest.HouseValidButLimited
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.HouseValidButLimited" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.HouseValidButLimited" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.HouseValidButLimited
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.HouseValidButLimited
+[       OK ] VacuumParserTest.HouseValidButLimited (0 ms)
+[----------] 1 test from VacuumParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.HouseValidButLimited" end time: Jul 06 14:59 IDT
+"VacuumParserTest.HouseValidButLimited" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/53 Testing: VacuumParserTest.ParseHouseNonRectangular
+33/53 Test: VacuumParserTest.ParseHouseNonRectangular
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest" "--gtest_filter=VacuumParserTest.ParseHouseNonRectangular" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VacuumParserTest.ParseHouseNonRectangular" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VacuumParserTest.ParseHouseNonRectangular
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VacuumParserTest
+[ RUN      ] VacuumParserTest.ParseHouseNonRectangular
+[       OK ] VacuumParserTest.ParseHouseNonRectangular (0 ms)
+[----------] 1 test from VacuumParserTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VacuumParserTest.ParseHouseNonRectangular" end time: Jul 06 14:59 IDT
+"VacuumParserTest.ParseHouseNonRectangular" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/53 Testing: VaccumTest.Construction
+34/53 Test: VaccumTest.Construction
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumTest" "--gtest_filter=VaccumTest.Construction" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.Construction" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.Construction
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.Construction
+[       OK ] VaccumTest.Construction (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.Construction" end time: Jul 06 14:59 IDT
+"VaccumTest.Construction" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/53 Testing: VaccumTest.run
+35/53 Test: VaccumTest.run
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumTest" "--gtest_filter=VaccumTest.run" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.run" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.run
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.run
+[       OK ] VaccumTest.run (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.run" end time: Jul 06 14:59 IDT
+"VaccumTest.run" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/53 Testing: VaccumTest.runMultiple
+36/53 Test: VaccumTest.runMultiple
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumTest" "--gtest_filter=VaccumTest.runMultiple" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"VaccumTest.runMultiple" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = VaccumTest.runMultiple
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from VaccumTest
+[ RUN      ] VaccumTest.runMultiple
+[       OK ] VaccumTest.runMultiple (0 ms)
+[----------] 1 test from VaccumTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (0 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"VaccumTest.runMultiple" end time: Jul 06 14:59 IDT
+"VaccumTest.runMultiple" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/53 Testing: NaiveAlgorithmRunningTest.minHouse
+37/53 Test: NaiveAlgorithmRunningTest.minHouse
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/NaiveAlgorithmTest" "--gtest_filter=NaiveAlgorithmRunningTest.minHouse" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"NaiveAlgorithmRunningTest.minHouse" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NaiveAlgorithmRunningTest.minHouse
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NaiveAlgorithmRunningTest
+[ RUN      ] NaiveAlgorithmRunningTest.minHouse
+[       OK ] NaiveAlgorithmRunningTest.minHouse (1 ms)
+[----------] 1 test from NaiveAlgorithmRunningTest (1 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (1 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NaiveAlgorithmRunningTest.minHouse" end time: Jul 06 14:59 IDT
+"NaiveAlgorithmRunningTest.minHouse" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/53 Testing: NaiveAlgorithmRunningTest.emptyRows
+38/53 Test: NaiveAlgorithmRunningTest.emptyRows
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/NaiveAlgorithmTest" "--gtest_filter=NaiveAlgorithmRunningTest.emptyRows" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"NaiveAlgorithmRunningTest.emptyRows" start time: Jul 06 14:59 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = NaiveAlgorithmRunningTest.emptyRows
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from NaiveAlgorithmRunningTest
+[ RUN      ] NaiveAlgorithmRunningTest.emptyRows
+[       OK ] NaiveAlgorithmRunningTest.emptyRows (5 ms)
+[----------] 1 test from NaiveAlgorithmRunningTest (5 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (5 ms total)
+[  PASSED  ] 1 test.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"NaiveAlgorithmRunningTest.emptyRows" end time: Jul 06 14:59 IDT
+"NaiveAlgorithmRunningTest.emptyRows" time elapsed: 00:00:00
+----------------------------------------------------------
+

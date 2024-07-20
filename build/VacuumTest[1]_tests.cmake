@@ -1,0 +1,7 @@
+add_test([=[VaccumTest.Construction]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumTest [==[--gtest_filter=VaccumTest.Construction]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VaccumTest.Construction]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[VaccumTest.run]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumTest [==[--gtest_filter=VaccumTest.run]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VaccumTest.run]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[VaccumTest.runMultiple]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumTest [==[--gtest_filter=VaccumTest.runMultiple]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VaccumTest.runMultiple]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  VacuumTest_TESTS VaccumTest.Construction VaccumTest.run VaccumTest.runMultiple)

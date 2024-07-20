@@ -1,0 +1,344 @@
+[
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/CleaningRecordTest.dir/src/Coordinate.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "output": "CMakeFiles/CleaningRecordTest.dir/src/Coordinate.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/CleaningRecordTest.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/CleaningRecordTest.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/CleaningRecordTest.dir/src/CleaningRecordStep.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "output": "CMakeFiles/CleaningRecordTest.dir/src/CleaningRecordStep.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/CleaningRecordTest.dir/src/CleaningRecord.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "output": "CMakeFiles/CleaningRecordTest.dir/src/CleaningRecord.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/CleaningRecordTest.dir/test/CleaningRecordTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/CleaningRecordTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/CleaningRecordTest.cpp",
+  "output": "CMakeFiles/CleaningRecordTest.dir/test/CleaningRecordTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MeteredVacuumBatteryTest.dir/src/MeteredVacuumBattery.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "output": "CMakeFiles/MeteredVacuumBatteryTest.dir/src/MeteredVacuumBattery.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MeteredVacuumBatteryTest.dir/test/MeteredVacuumBatteryTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/MeteredVacuumBatteryTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/MeteredVacuumBatteryTest.cpp",
+  "output": "CMakeFiles/MeteredVacuumBatteryTest.dir/test/MeteredVacuumBatteryTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/HouseLocationTest.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/HouseLocationTest.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/HouseLocationTest.dir/test/HouseLocationTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/HouseLocationTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/HouseLocationTest.cpp",
+  "output": "CMakeFiles/HouseLocationTest.dir/test/HouseLocationTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/HouseTest.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/HouseTest.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/HouseTest.dir/src/VacuumHouse.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "output": "CMakeFiles/HouseTest.dir/src/VacuumHouse.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/HouseTest.dir/src/Coordinate.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "output": "CMakeFiles/HouseTest.dir/src/Coordinate.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/HouseTest.dir/test/VacuumHouseTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/VacuumHouseTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/VacuumHouseTest.cpp",
+  "output": "CMakeFiles/HouseTest.dir/test/VacuumHouseTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/VacuumParser.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/VacuumParser.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/VacuumHouse.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/VacuumHouse.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/MeteredVacuumBattery.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/MeteredVacuumBattery.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/Coordinate.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/Coordinate.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/CleaningRecordStep.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/CleaningRecordStep.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/src/CleaningRecord.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/src/CleaningRecord.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/VacuumParserTest.dir/test/VacuumParserTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/VacuumParserTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/VacuumParserTest.cpp",
+  "output": "CMakeFiles/VacuumParserTest.dir/test/VacuumParserTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/VacuumParser.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/VacuumParser.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/VacuumHouse.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/VacuumHouse.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/MeteredVacuumBattery.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/MeteredVacuumBattery.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/Coordinate.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/Coordinate.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/VacuumSimulator.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumSimulator.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumSimulator.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/VacuumSimulator.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/CleaningRecordStep.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/CleaningRecordStep.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/CleaningRecord.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/CleaningRecord.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/OutFileWriter.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/OutFileWriter.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/OutFileWriter.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/OutFileWriter.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/MappingAlgorithm/MappingAlgorithm.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingAlgorithm.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingAlgorithm.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/MappingAlgorithm/MappingAlgorithm.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/src/MappingAlgorithm/MappingGraph.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingGraph.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingGraph.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/src/MappingAlgorithm/MappingGraph.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/MappingAlgorithmTest.dir/test/MappingAlgorithmTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/MappingAlgorithmTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/MappingAlgorithmTest.cpp",
+  "output": "CMakeFiles/MappingAlgorithmTest.dir/test/MappingAlgorithmTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/VacuumParser.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/VacuumParser.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/Coordinate.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/Coordinate.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/VacuumHouse.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/VacuumHouse.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/CleaningRecord.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/CleaningRecord.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/CleaningRecordStep.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/CleaningRecordStep.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/src/OutFileWriter.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/OutFileWriter.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/OutFileWriter.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/src/OutFileWriter.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/OutFileWriterTest.dir/test/OutFileWriterTest.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/OutFileWriterTest.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/OutFileWriterTest.cpp",
+  "output": "CMakeFiles/OutFileWriterTest.dir/test/OutFileWriterTest.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/CleaningRecord.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecord.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/CleaningRecord.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/CleaningRecordStep.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/CleaningRecordStep.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/CleaningRecordStep.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/Coordinate.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/Coordinate.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/Coordinate.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/VacuumHouse.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumHouse.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/VacuumHouse.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/HouseLocation.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/HouseLocation.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/HouseLocation.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/OutFileWriter.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/OutFileWriter.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/OutFileWriter.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/OutFileWriter.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/VacuumSimulator.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumSimulator.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumSimulator.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/VacuumSimulator.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/VacuumParser.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/VacuumParser.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/VacuumParser.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/MeteredVacuumBattery.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MeteredVacuumBattery.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/MeteredVacuumBattery.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/MappingAlgorithm/MappingAlgorithm.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingAlgorithm.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingAlgorithm.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/MappingAlgorithm/MappingAlgorithm.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/src/MappingAlgorithm/MappingGraph.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingGraph.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/src/MappingAlgorithm/MappingGraph.cpp",
+  "output": "CMakeFiles/myrobot.dir/src/MappingAlgorithm/MappingGraph.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=gnu++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -o CMakeFiles/myrobot.dir/main.cpp.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/main.cpp",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/main.cpp",
+  "output": "CMakeFiles/myrobot.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/include/MappingAlgorithm -I/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/include -isystem /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest  -g -Wall -Wextra -Werror -pedantic -O3 -DNDEBUG -std=c++20 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk  -DGTEST_HAS_PTHREAD=1   -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

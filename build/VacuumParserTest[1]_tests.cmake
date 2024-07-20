@@ -1,0 +1,7 @@
+add_test([=[VacuumParserTest.ParseInvalidHouses]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest [==[--gtest_filter=VacuumParserTest.ParseInvalidHouses]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VacuumParserTest.ParseInvalidHouses]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[VacuumParserTest.ParseValidHouses]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest [==[--gtest_filter=VacuumParserTest.ParseValidHouses]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VacuumParserTest.ParseValidHouses]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[VacuumParserTest.CheckParsing]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/VacuumParserTest [==[--gtest_filter=VacuumParserTest.CheckParsing]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[VacuumParserTest.CheckParsing]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  VacuumParserTest_TESTS VacuumParserTest.ParseInvalidHouses VacuumParserTest.ParseValidHouses VacuumParserTest.CheckParsing)

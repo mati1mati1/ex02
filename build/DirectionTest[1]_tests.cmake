@@ -1,0 +1,5 @@
+add_test([=[DirectionTest.Numbering]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/DirectionTest [==[--gtest_filter=DirectionTest.Numbering]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[DirectionTest.Numbering]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[DirectionTest.Opposite]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/DirectionTest [==[--gtest_filter=DirectionTest.Opposite]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[DirectionTest.Opposite]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  DirectionTest_TESTS DirectionTest.Numbering DirectionTest.Opposite)

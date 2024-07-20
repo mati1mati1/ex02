@@ -1,0 +1,7 @@
+add_test([=[CleaningRecordTest.Construction]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest [==[--gtest_filter=CleaningRecordTest.Construction]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CleaningRecordTest.Construction]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[CleaningRecordTest.Add]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest [==[--gtest_filter=CleaningRecordTest.Add]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CleaningRecordTest.Add]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test([=[CleaningRecordTest.InitialValue]=]  /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest [==[--gtest_filter=CleaningRecordTest.InitialValue]==] --gtest_also_run_disabled_tests)
+set_tests_properties([=[CleaningRecordTest.InitialValue]=]  PROPERTIES WORKING_DIRECTORY /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set(  CleaningRecordTest_TESTS CleaningRecordTest.Construction CleaningRecordTest.Add CleaningRecordTest.InitialValue)

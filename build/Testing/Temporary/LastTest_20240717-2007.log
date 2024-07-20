@@ -1,0 +1,40 @@
+Start testing: Jul 17 23:21 IDT
+----------------------------------------------------------
+44/44 Testing: CleaningTest.houseBig
+44/44 Test: CleaningTest.houseBig
+Command: "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/MappingAlgorithmTest" "--gtest_filter=CleaningTest.houseBig" "--gtest_also_run_disabled_tests"
+Directory: /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build
+"CleaningTest.houseBig" start time: Jul 17 23:21 IDT
+Output:
+----------------------------------------------------------
+Running main() from /Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-src/googletest/src/gtest_main.cc
+Note: Google Test filter = CleaningTest.houseBig
+[==========] Running 1 test from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 1 test from CleaningTest
+[ RUN      ] CleaningTest.houseBig
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/test/MappingAlgorithmTest.cpp:144: Failure
+Expected equality of these values:
+  record->last()->getDirtLevel()
+    Which is: 372
+  0
+
+[  FAILED  ] CleaningTest.houseBig (3868 ms)
+[----------] 1 test from CleaningTest (3868 ms total)
+
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test suite ran. (3868 ms total)
+[  PASSED  ] 0 tests.
+[  FAILED  ] 1 test, listed below:
+[  FAILED  ] CleaningTest.houseBig
+
+ 1 FAILED TEST
+<end of output>
+Test time =   3.88 sec
+----------------------------------------------------------
+Test Failed.
+"CleaningTest.houseBig" end time: Jul 17 23:21 IDT
+"CleaningTest.houseBig" time elapsed: 00:00:03
+----------------------------------------------------------
+
+End testing: Jul 17 23:21 IDT

@@ -1,0 +1,5 @@
+if(EXISTS "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/MeteredVacuumBatteryTest[1]_tests.cmake")
+  include("/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/MeteredVacuumBatteryTest[1]_tests.cmake")
+else()
+  add_test(MeteredVacuumBatteryTest_NOT_BUILT MeteredVacuumBatteryTest_NOT_BUILT)
+endif()

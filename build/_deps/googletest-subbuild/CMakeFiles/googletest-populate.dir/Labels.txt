@@ -1,0 +1,14 @@
+# Target labels
+ googletest-populate
+# Source files and their labels
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test.rule
+/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update.rule

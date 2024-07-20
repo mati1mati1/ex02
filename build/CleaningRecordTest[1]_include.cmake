@@ -1,0 +1,5 @@
+if(EXISTS "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest[1]_tests.cmake")
+  include("/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/CleaningRecordTest[1]_tests.cmake")
+else()
+  add_test(CleaningRecordTest_NOT_BUILT CleaningRecordTest_NOT_BUILT)
+endif()

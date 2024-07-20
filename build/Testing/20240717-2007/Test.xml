@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20240717-2007-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.29.6"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="macOS"
+	Hostname="h-MacBook-Pro-sl-matan.local"
+	OSRelease="14.5"
+	OSVersion="23F79"
+	OSPlatform="arm64"
+	Is64Bits="1"
+	VendorString="IBM"
+	VendorID="IBM"
+	FamilyID="16777228"
+	ModelID="2"
+	ProcessorCacheSize="131072"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="16384"
+	LogicalProcessorsPerPhysical="8"
+	ProcessorClockFrequency="0"
+	>
+	<Testing>
+		<StartDateTime>Jul 17 23:21 IDT</StartDateTime>
+		<StartTestTime>1721247697</StartTestTime>
+		<TestList>
+			<Test>./CleaningTest.houseBig</Test>
+		</TestList>
+		<Test Status="failed">
+			<Name>CleaningTest.houseBig</Name>
+			<Path>.</Path>
+			<FullName>./CleaningTest.houseBig</FullName>
+			<FullCommandLine>/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/MappingAlgorithmTest "--gtest_filter=CleaningTest.houseBig" "--gtest_also_run_disabled_tests"</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="text/string" name="Exit Code">
+					<Value>Failed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Exit Value">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>3.87738</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/MappingAlgorithmTest "--gtest_filter=CleaningTest.houseBig" "--gtest_also_run_disabled_tests"</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJylUdtKw0AQfd+vmMcGTLbWohJQqLYVQUXaFB9KkW0yTRY2u3F3UvXv3aSlVqVQcJ7mcuZyzkxqraXOoRRSdwJYWVMCnzm0jpeChBalTItPngxmvNft9XlaVc/W5Nbndc5HH93ed5iYSqaOL2upMv6aYeV4bkyukNBR6Gy6F/I2bLzXZnWUpuzJEMZw10Ig8RVYSUVo4QpuFYrmzCYbFaZ2eCNzNr/a2QImWyKnQG1rQ2Tru1oSRmwe7mwBd8oshdrUUa+lNbpE7bFIYV39Au/P3D+FzWEye4LWFgeO/KeYrVaPoqp8aqByYyUVZbvBN8en/X4MYyFVbZGNPipMCTPAt1ooSZ9gVkAFOoS1UDW6mAFYTI3NwmslHHWC8DpHGkpLD7hG1QlYw+Sl8FeCdDGcXfR8pss8TxgP7h9Gw4M8oXN2eX4JpQuOk26HBzIkVMCOew+hsGFm3vXP5x96Olihoz+rPJvnwXS6YdNt4S76yXEz5ASUdI2iS1TmPT5CBsZ86xaTjKYJ+wJVEBfh====</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Jul 17 23:21 IDT</EndDateTime>
+		<EndTestTime>1721247700</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

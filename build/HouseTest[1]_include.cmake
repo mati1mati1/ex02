@@ -1,0 +1,5 @@
+if(EXISTS "/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseTest[1]_tests.cmake")
+  include("/Users/matanamichy/TAU/2024/cppPrograming/Ex02ProgramingTopics/build/HouseTest[1]_tests.cmake")
+else()
+  add_test(HouseTest_NOT_BUILT HouseTest_NOT_BUILT)
+endif()
